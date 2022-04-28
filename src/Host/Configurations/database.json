@@ -1,0 +1,6 @@
+{
+  "DatabaseSettings": {
+    "DBProvider": "mssql",
+    "ConnectionString": "Data Source=DESKTOP-QCVLLUQ\\SQL2019;Initial Catalog=GaliaDb;Integrated Security=True;MultipleActiveResultSets=True"
+  }
+}

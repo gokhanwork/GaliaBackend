@@ -1,0 +1,11 @@
+{
+  "MailSettings": {
+    "DisplayName": "Gökhan Polat",
+    "EnableVerification": true,
+    "From": "gokhan@gokhan.work",
+    "Host": "mail.gokhan.work",
+    "Password": "vAKmWQB8CyPUBg8rBQ",
+    "Port": 587,
+    "UserName": "adaline.pfannerstill49@ethereal.email"
+  }
+}
